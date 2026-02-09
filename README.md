@@ -56,4 +56,4 @@ Vamos nos conectar!
 -   **Email:** [reis.souza.danilo@hotmail.com](mailto:reis.souza.danilo@hotmail.com)  
   
 ## 🌐 Link deploy  
-Você pode ver o dashboard gerado clicando [aqui](https://github.com/danilo-s-reis/analytics-python-salarios).
+Você pode ver o dashboard gerado clicando [aqui](https://analytics-python-portfolio.streamlit.app/).
