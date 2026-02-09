@@ -34,12 +34,16 @@ O raw do dataset utilizado pode ser encontrado no [link](https://raw.githubuserc
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/danilo-s-reis/analytics-python-salarios.git  
-```  
-2. **Instale as dependências:**  
+```
+2. **Caminhe até a pasta do projeto:**
+ ```bash
+cd .\analytics-python-salarios\
+```
+3. **Instale as dependências:**  
 ```bash
 pip install -r requirements.txt
 ```  
-3. **Execute o app Streamlit:**  
+4. **Execute o app Streamlit:**  
 ```bash
 streamlit run app.py
 ```  
